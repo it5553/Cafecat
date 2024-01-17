@@ -21,30 +21,39 @@ table{
 }
 .text1{
   background-color:yellow;  
+  font-family:sans-serif;
 }
 .text2{
-   background-color:red ; 
+   background-color:red ;
+   font-family:sans-serif; 
 }
 .text3{
-   background-color:lightblue; 
+   background-color:lightblue;
+   font-family:sans-serif; 
 }
 .text4{
     font-family:sans-serif;
 }
 .text5{
     background-color:lightgreen;
-}
-.text6{
     font-family:sans-serif;
 }
 .text7{
     background-color:orange;
+    font-family:sans-serif;
 }
-.text8{
+
+.text9{
+    background-color: greenyellow;
+    font-family:sans-serif;
+}
+.text10{
+    background-color:rgb(38, 205, 238);
     font-family:sans-serif;
 }
  h1{
     font-family:sans-serif;
+    text-transform: uppercase;
 
 }
 img a{
@@ -81,3 +90,10 @@ a{
 .nj{
     color:red;
 }
+.hg{
+    width:40px;
+    height:40px;
+}
+   
+
+
